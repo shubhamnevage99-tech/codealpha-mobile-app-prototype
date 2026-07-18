@@ -1,7 +1,7 @@
 # codealpha-mobile-app-prototype
 Interactive mobile application prototype designed in Figma for the CodeAlpha UI/UX Design Internship. The project demonstrates a complete user flow, modern interface design, and interactive navigation between application screens.
 
-# CodeAlpha Task 4 – Interactive Mobile App Prototype
+# CodeAlpha – Interactive Mobile App Prototype
 ## 📌 Project Overview
 This project was created as part of the **CodeAlpha UI/UX Design Internship**.
 The objective of this task is to design a fully interactive mobile application prototype using **Figma**. The prototype focuses on providing an intuitive user experience, clean interface design, and smooth navigation between screens.
